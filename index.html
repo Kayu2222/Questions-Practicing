@@ -187,6 +187,7 @@
   <select id="subjectSel" onchange="loadSubject(this.value)">
     <option value="">── Select the Script ──</option>
     <option value="questions/cloud_security.json">Cloud Security（W1–W7）</option>
+    <option value="questions/AIMS.json">AIMS</option>
     <!-- new questions code
     <option value="questions/AIMS_2024.json">AIMS 2024</option>
     -->
@@ -237,7 +238,7 @@ var filter = 'all';
 function loadSubject(url) {
   if (!url) return;
   var status = document.getElementById('loadStatus');
-  status.textContent = '載入中…';
+  status.textContent = 'Loading…';
   status.className = 'load-status';
 
   fetch(url)
