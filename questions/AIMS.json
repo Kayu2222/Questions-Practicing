@@ -1,0 +1,1207 @@
+{
+  "title": "AIMS Medical Laboratory Science Quiz",
+  "subject": "AIMS",
+  "weeks": [],
+  "questions": [
+    {
+      "id": 1,
+      "q": "In a patient with Polycythemia Vera, what artifactual result is expected for PT and aPTT if the Hematocrit is > 55%?",
+      "opts": [
+        "A. Falsely shortened",
+        "B. Falsely prolonged",
+        "C. No effect",
+        "D. PT prolonged, aPTT normal"
+      ],
+      "ans": "B",
+      "exp": "A high haematocrit (Hct >55%) means there is proportionally less plasma, causing excess sodium citrate anticoagulant in the tube. The surplus citrate chelates the calcium added during testing, resulting in falsely prolonged PT and aPTT."
+    },
+    {
+      "id": 2,
+      "q": "To correct the pre-analytical error mentioned in the previous question, what action should be taken?",
+      "opts": [
+        "A. Re-draw using an EDTA tube",
+        "B. Increase the volume of Sodium Citrate",
+        "C. Decrease the volume of Sodium Citrate according to a correction formula",
+        "D. Dilute the sample 1:2"
+      ],
+      "ans": "C",
+      "exp": "The anticoagulant volume must be reduced using a correction formula: Vol = (100 − Hct) / (595 − Hct) × total volume."
+    },
+    {
+      "id": 3,
+      "q": "What is the typical difference in Fibrinogen levels between early sepsis and Disseminated Intravascular Coagulation (DIC)?",
+      "opts": [
+        "A. Both are decreased",
+        "B. Increased in Sepsis (acute phase reactant); Decreased in DIC (consumption)",
+        "C. Decreased in Sepsis; Increased in DIC",
+        "D. Both are normal"
+      ],
+      "ans": "B",
+      "exp": "Fibrinogen rises as an acute-phase reactant in early sepsis, but falls in DIC due to widespread consumption in microvascular thrombi."
+    },
+    {
+      "id": 4,
+      "q": "A 10-year-old child presents with pancytopenia, MCV 104 fL, and rare blasts on the peripheral smear with no hypersegmented neutrophils. What is the most likely cause of the macrocytosis?",
+      "opts": [
+        "A. Vitamin B12 deficiency",
+        "B. Reticulocytosis secondary to hemolysis",
+        "C. Ineffective erythropoiesis due to marrow infiltration by blasts",
+        "D. Drug interference"
+      ],
+      "ans": "C",
+      "exp": "Marrow infiltration by leukaemic blasts causes ineffective erythropoiesis, leading to macrocytosis."
+    },
+    {
+      "id": 5,
+      "q": "When differentiating Iron Deficiency Anemia (IDA) from Thalassemia, which parameter is typically significantly elevated in Thalassemia?",
+      "opts": [
+        "A. RDW",
+        "B. MCV",
+        "C. RBC Count (relative to the Hb level)",
+        "D. Ferritin"
+      ],
+      "ans": "C",
+      "exp": "In thalassaemia carriers, the RBC count is disproportionately high relative to the degree of anaemia and low Hb."
+    },
+    {
+      "id": 6,
+      "q": "In advanced liver disease, INR is prolonged and Factor V is decreased. In Vitamin K deficiency, what is the status of Factor V?",
+      "opts": [
+        "A. Significantly decreased",
+        "B. Remains normal",
+        "C. Mildly decreased",
+        "D. Significantly increased"
+      ],
+      "ans": "B",
+      "exp": "Factor V is liver-synthesised but not vitamin K-dependent; Factors II, VII, IX, and X are vitamin K-dependent."
+    },
+    {
+      "id": 7,
+      "q": "Regarding the genetic mutation in Sickle Cell Disease, which is correct?",
+      "opts": [
+        "A. Substitution of glutamic acid with valine at position 6 of the β-globin chain",
+        "B. Substitution of glutamic acid with lysine at position 6 of the β-globin chain",
+        "C. Deletion of the α-globin gene",
+        "D. Substitution at position 26 of the β-globin chain"
+      ],
+      "ans": "A",
+      "exp": "This is the classic sickle cell mutation: codon 6 of the β-globin chain changes glutamic acid (Glu) to valine (Val)."
+    },
+    {
+      "id": 8,
+      "q": "A patient has Hb: 85 g/L, elevated LDH, decreased Haptoglobin, and elevated Unconjugated Bilirubin. Which test is most useful to confirm immune-mediated hemolysis?",
+      "opts": [
+        "A. G6PD assay",
+        "B. Osmotic fragility test",
+        "C. Direct Antiglobulin Test (DAT/Coombs)",
+        "D. Hemoglobin electrophoresis"
+      ],
+      "ans": "C",
+      "exp": "The Direct Antiglobulin Test (DAT) confirms whether IgG or C3 is coating the red cell surface, establishing immune-mediated haemolysis."
+    },
+    {
+      "id": 9,
+      "q": "In flow cytometry for Paroxysmal Nocturnal Hemoglobinuria (PNH), which proteins are primarily missing from the cell surface?",
+      "opts": [
+        "A. CD55 and CD59",
+        "B. CD33 and CD34",
+        "C. CD19 and CD20",
+        "D. CD4 and CD8"
+      ],
+      "ans": "A",
+      "exp": "PNH involves a GPI-anchor protein gene mutation, resulting in loss of CD55 and CD59 from the cell surface."
+    },
+    {
+      "id": 10,
+      "q": "What is the typical bone marrow finding in Aplastic Anemia?",
+      "opts": [
+        "A. Bone marrow fibrosis",
+        "B. Hypocellularity with fat cells replacing hematopoietic cells (<25% cellularity)",
+        "C. Blasts exceeding 20%",
+        "D. Increased iron stores"
+      ],
+      "ans": "B",
+      "exp": "Aplastic Anaemia marrow appears 'empty' — haematopoietic cells are markedly reduced and replaced by fat cells (cellularity <25%)."
+    },
+    {
+      "id": 11,
+      "q": "A 65-year-old male on Warfarin has an INR of 6.5 and active bleeding. What should be administered in addition to stopping the drug?",
+      "opts": [
+        "A. Vitamin K injection only",
+        "B. Prothrombin Complex Concentrate (PCC) and Vitamin K",
+        "C. FFP only",
+        "D. Platelets only"
+      ],
+      "ans": "B",
+      "exp": "PCC (e.g. Beriplex/Octaplex) provides immediate clotting factor replacement for haemostasis; Vitamin K is co-administered for sustained reversal."
+    },
+    {
+      "id": 12,
+      "q": "Which clotting factors are the most labile in plasma stored at 4°C?",
+      "opts": [
+        "A. Factors II and VII",
+        "B. Factors IX and X",
+        "C. Factors V and VIII",
+        "D. Factors XI and XII"
+      ],
+      "ans": "C",
+      "exp": "Factors V and VIII are the most labile at 4°C, losing activity rapidly during storage."
+    },
+    {
+      "id": 13,
+      "q": "A patient with severe anemia has a reticulocyte count of 3% and Hb of 70 g/L. How is the corrected Reticulocyte Index (RI) interpreted?",
+      "opts": [
+        "A. Adequate bone marrow compensation",
+        "B. Inadequate bone marrow response",
+        "C. Hemolytic anemia",
+        "D. Normal response"
+      ],
+      "ans": "B",
+      "exp": "When severe anaemia is present, an RI <2% indicates inadequate bone marrow compensatory response."
+    },
+    {
+      "id": 14,
+      "q": "In a Lupus Anticoagulant test, what does a shortening of the aPTT after adding excess phospholipid indicate?",
+      "opts": [
+        "A. Factor deficiency",
+        "B. Presence of a phospholipid-dependent inhibitor",
+        "C. Invalid test",
+        "D. Heparin contamination"
+      ],
+      "ans": "B",
+      "exp": "Lupus anticoagulant is a phospholipid-dependent inhibitor; adding excess phospholipid neutralises it, shortening the aPTT."
+    },
+    {
+      "id": 15,
+      "q": "Peripheral smear findings in Myelofibrosis typically include:",
+      "opts": [
+        "A. Teardrop cells (Dacrocytes) and leucoerythroblastic features",
+        "B. Target cells",
+        "C. Schistocytes",
+        "D. Sickle cells"
+      ],
+      "ans": "A",
+      "exp": "Classic peripheral blood findings in myelofibrosis are teardrop cells (dacrocytes) and a leucoerythroblastic picture."
+    },
+    {
+      "id": 16,
+      "q": "During an acute hemolytic episode in G6PD deficiency, what is most commonly observed on the peripheral smear?",
+      "opts": [
+        "A. Howell-Jolly bodies",
+        "B. Bite cells and Heinz bodies (with supravital stain)",
+        "C. Target cells",
+        "D. Elliptocytes"
+      ],
+      "ans": "B",
+      "exp": "In a G6PD deficiency haemolytic episode, denatured haemoglobin forms Heinz bodies (supravital stain required); the spleen 'bites' them out, leaving bite cells."
+    },
+    {
+      "id": 17,
+      "q": "In Australian laboratories, D-dimer is primarily used to exclude which of the following?",
+      "opts": [
+        "A. Hemophilia",
+        "B. Deep Vein Thrombosis (DVT) and Pulmonary Embolism (PE)",
+        "C. Iron Deficiency Anemia",
+        "D. Thalassemia"
+      ],
+      "ans": "B",
+      "exp": "D-dimer has a high negative predictive value for excluding DVT and PE."
+    },
+    {
+      "id": 18,
+      "q": "The presence of significant Schistocytes and thrombocytopenia on a peripheral smear should lead to strong suspicion of:",
+      "opts": [
+        "A. ITP",
+        "B. TTP or HUS",
+        "C. Aplastic Anemia",
+        "D. Chronic Leukemia"
+      ],
+      "ans": "B",
+      "exp": "Significant schistocytes plus thrombocytopenia is the hallmark of microangiopathic haemolytic anaemia (MAHA), strongly suggesting TTP or HUS."
+    },
+    {
+      "id": 19,
+      "q": "What is the most common cause of a prolonged Thrombin Time (TT)?",
+      "opts": [
+        "A. Factor VIII deficiency",
+        "B. Heparin interference or Hypofibrinogenemia",
+        "C. Factor IX deficiency",
+        "D. Aspirin use"
+      ],
+      "ans": "B",
+      "exp": "Thrombin Time measures fibrinogen-to-fibrin conversion and is highly sensitive to heparin interference and hypofibrinogenaemia."
+    },
+    {
+      "id": 20,
+      "q": "Which is true regarding Howell-Jolly bodies?",
+      "opts": [
+        "A. They represent denatured hemoglobin",
+        "B. They are remnants of nuclear DNA, commonly seen post-splenectomy",
+        "C. They represent iron deposits",
+        "D. They represent residual RNA"
+      ],
+      "ans": "B",
+      "exp": "Howell-Jolly bodies are nuclear DNA remnants normally cleared by the spleen; they appear abundantly post-splenectomy."
+    },
+    {
+      "id": 21,
+      "q": "A 25-year-old female has Hb 105 g/L, MCV 72 fL, and RDW 18%. What is the most likely diagnosis?",
+      "opts": [
+        "A. α-Thalassemia trait",
+        "B. Iron Deficiency Anemia (IDA)",
+        "C. Anemia of Chronic Disease",
+        "D. Megaloblastic Anemia"
+      ],
+      "ans": "B",
+      "exp": "IDA is characterised by a markedly elevated RDW (anisocytosis), whereas thalassaemia trait typically shows a normal RDW."
+    },
+    {
+      "id": 22,
+      "q": "Typical coagulation results for Hemophilia A are:",
+      "opts": [
+        "A. Prolonged PT, Normal aPTT",
+        "B. Normal PT, Prolonged aPTT",
+        "C. Prolonged PT, Prolonged aPTT",
+        "D. Prolonged BT, Normal PT"
+      ],
+      "ans": "B",
+      "exp": "Haemophilia A lacks Factor VIII, an intrinsic pathway factor, giving a prolonged aPTT with a normal PT."
+    },
+    {
+      "id": 23,
+      "q": "In testing for Von Willebrand Disease (vWD), which activity must be measured alongside vWF Antigen?",
+      "opts": [
+        "A. Ristocetin Cofactor Activity (vWF:RCo)",
+        "B. Factor VII activity",
+        "C. Antithrombin III",
+        "D. Protein C"
+      ],
+      "ans": "A",
+      "exp": "The Ristocetin Cofactor Activity (vWF:RCo) assay measures the functional activity of vWF in binding platelets."
+    },
+    {
+      "id": 24,
+      "q": "In flow cytometry, CD34 positivity indicates which type of cell?",
+      "opts": [
+        "A. Mature T-cell",
+        "B. Hematopoietic Stem Cell",
+        "C. Mature B-cell",
+        "D. Monocyte"
+      ],
+      "ans": "B",
+      "exp": "CD34 is a specific surface marker of early haematopoietic stem/progenitor cells."
+    },
+    {
+      "id": 25,
+      "q": "What are the nuclear characteristics of neutrophils in Pelger-Huet anomaly?",
+      "opts": [
+        "A. Hypersegmentation (> 5 lobes)",
+        "B. Hyposegmentation (usually 2 lobes or non-segmented)",
+        "C. Karyorrhexis",
+        "D. Ring-shaped nuclei"
+      ],
+      "ans": "B",
+      "exp": "Pelger-Huet anomaly causes hyposegmentation of neutrophils, typically presenting as bilobed (pince-nez) or non-segmented nuclei."
+    },
+    {
+      "id": 26,
+      "q": "Which test distinguishes a Leukemoid Reaction from Chronic Myeloid Leukemia (CML)?",
+      "opts": [
+        "A. LAP (Leukocyte Alkaline Phosphatase) score",
+        "B. Hb Electrophoresis",
+        "C. Reticulocyte count",
+        "D. Iron stain"
+      ],
+      "ans": "A",
+      "exp": "The LAP score is markedly elevated in leukaemoid reactions (infection) and markedly low in CML."
+    },
+    {
+      "id": 27,
+      "q": "Platelet aggregation studies show no response to ADP, Collagen, or Epinephrine, but a normal response to Ristocetin. This is characteristic of:",
+      "opts": [
+        "A. Bernard-Soulier Syndrome",
+        "B. Glanzmann Thrombasthenia",
+        "C. vWD",
+        "D. ITP"
+      ],
+      "ans": "B",
+      "exp": "Glanzmann Thrombasthenia lacks GPIIb/IIIa, abolishing aggregation responses to ADP, collagen, and epinephrine; the Ristocetin pathway (vWF/GPIb) remains intact."
+    },
+    {
+      "id": 28,
+      "q": "What is the gold standard for Malaria diagnosis?",
+      "opts": [
+        "A. PCR",
+        "B. Examination of Thick and Thin blood films",
+        "C. Rapid Antigen Test",
+        "D. Bone marrow aspiration"
+      ],
+      "ans": "B",
+      "exp": "Thick and thin blood film microscopy is the gold standard for diagnosing malaria, identifying species, and quantifying parasite load."
+    },
+    {
+      "id": 29,
+      "q": "What is the specimen requirement for ESR (Erythrocyte Sedimentation Rate) in Australian labs?",
+      "opts": [
+        "A. EDTA tube, tested within 4 hours",
+        "B. Citrate tube, 1:4 ratio",
+        "C. Heparin tube",
+        "D. Serum tube"
+      ],
+      "ans": "B",
+      "exp": "Australian ESR standard uses a black-top citrate tube at a 1:4 ratio (1 part anticoagulant to 4 parts blood)."
+    },
+    {
+      "id": 30,
+      "q": "Peripheral smear characteristics of Megaloblastic Anemia include:",
+      "opts": [
+        "A. Target cells and basophilic stippling",
+        "B. Macro-ovalocytes and hypersegmented neutrophils",
+        "C. Teardrop cells",
+        "D. Microcytic hypochromic cells"
+      ],
+      "ans": "B",
+      "exp": "Megaloblastic anaemia from impaired DNA synthesis shows macro-ovalocytes and hypersegmented neutrophils (>5 lobes) on the peripheral smear."
+    },
+    {
+      "id": 31,
+      "q": "In Liver Function Tests (LFTs), if ALP and GGT are significantly elevated while ALT/AST are only mildly increased, what is the most likely pattern?",
+      "opts": [
+        "A. Hepatocellular",
+        "B. Cholestatic",
+        "C. Acute Hepatitis",
+        "D. Hemolytic Jaundice"
+      ],
+      "ans": "B",
+      "exp": "A pattern of markedly elevated ALP and GGT with only mildly raised ALT/AST indicates cholestatic disease."
+    },
+    {
+      "id": 32,
+      "q": "If BUN is significantly elevated but Creatinine is normal, which non-renal factor is a likely cause?",
+      "opts": [
+        "A. Rhabdomyolysis",
+        "B. High protein diet or GI bleed",
+        "C. Overhydration",
+        "D. Liver failure"
+      ],
+      "ans": "B",
+      "exp": "A high-protein diet or GI bleed increases nitrogenous waste, causing a pre-renal rise in BUN without a proportional rise in creatinine."
+    },
+    {
+      "id": 33,
+      "q": "A 58-year-old male with a mechanical valve, INR 6.2, presents with flank pain and hematuria. CT shows a wedge-shaped renal lesion. Most likely diagnosis?",
+      "opts": [
+        "A. Warfarin-induced nephropathy",
+        "B. Renal infarction due to embolism",
+        "C. Acute pyelonephritis",
+        "D. Renal papillary necrosis"
+      ],
+      "ans": "A",
+      "exp": "Over-anticoagulation with warfarin (INR 6.2) can cause warfarin-induced nephropathy via direct tubular injury presenting with acute haematuria."
+    },
+    {
+      "id": 34,
+      "q": "In electrolyte analysis, which group of analytes will be falsely elevated if the sample is hemolyzed?",
+      "opts": [
+        "A. Na+, Cl⁻",
+        "B. K+, Mg²⁺, LDH",
+        "C. Ca²⁺, Glucose",
+        "D. BUN, Creatinine"
+      ],
+      "ans": "B",
+      "exp": "K⁺, Mg²⁺, and LDH are concentrated inside RBCs; haemolysis releases them into the sample, causing falsely elevated results."
+    },
+    {
+      "id": 35,
+      "q": "HbA1c primarily reflects the average blood glucose over what period?",
+      "opts": [
+        "A. 2 weeks",
+        "B. 1 month",
+        "C. 8-12 weeks",
+        "D. 6 months"
+      ],
+      "ans": "C",
+      "exp": "HbA1c reflects the average blood glucose over the RBC lifespan (~120 days), representing approximately the past 8–12 weeks."
+    },
+    {
+      "id": 36,
+      "q": "The primary mechanism for neurological complications in Hyponatremia is:",
+      "opts": [
+        "A. Cell dehydration",
+        "B. Cerebral edema",
+        "C. Potassium loss",
+        "D. Hypoglycemia"
+      ],
+      "ans": "B",
+      "exp": "Hyponatraemia lowers extracellular osmolality, driving water into brain cells and causing cerebral oedema."
+    },
+    {
+      "id": 37,
+      "q": "What is the typical ECG change in a patient with severe Hyperkalemia?",
+      "opts": [
+        "A. U-waves",
+        "B. Peaked T-waves",
+        "C. ST-depression",
+        "D. Prolonged P-wave"
+      ],
+      "ans": "B",
+      "exp": "Peaked T-waves are the earliest and most classic ECG sign of hyperkalaemic cardiac toxicity."
+    },
+    {
+      "id": 38,
+      "q": "Which factor is NOT typically used in the Australian eGFR calculation (e.g., CKD-EPI)?",
+      "opts": [
+        "A. Serum Creatinine",
+        "B. Age",
+        "C. Gender",
+        "D. Weight"
+      ],
+      "ans": "D",
+      "exp": "The CKD-EPI eGFR formula uses only serum creatinine, age, and sex; body weight is not included."
+    },
+    {
+      "id": 39,
+      "q": "Lipemic samples primarily interfere with which type of detection?",
+      "opts": [
+        "A. Direct ISE for Sodium",
+        "B. Photometry (for Hb or Protein)",
+        "C. Electrophoresis",
+        "D. Enzymatic glucose"
+      ],
+      "ans": "B",
+      "exp": "Lipaemia causes turbidity that scatters light, significantly interfering with photometric (absorbance-based) assays."
+    },
+    {
+      "id": 40,
+      "q": "What is the typical compensation for Metabolic Acidosis?",
+      "opts": [
+        "A. Decreased respiratory rate (CO2 retention)",
+        "B. Hyperventilation (Decreased pCO2)",
+        "C. Increased HCO3⁻ excretion",
+        "D. Decreased acid excretion"
+      ],
+      "ans": "B",
+      "exp": "In metabolic acidosis, the respiratory system compensates by hyperventilating to lower pCO₂ and raise blood pH."
+    },
+    {
+      "id": 41,
+      "q": "A 40-year-old female presents with fatigue and cold intolerance. Results: High TSH, Low Free T4. Most likely diagnosis?",
+      "opts": [
+        "A. Graves' Disease",
+        "B. Hashimoto's Thyroiditis",
+        "C. Hyperthyroidism",
+        "D. Pituitary insufficiency"
+      ],
+      "ans": "B",
+      "exp": "High TSH with low Free T4 indicates primary hypothyroidism; Hashimoto's Thyroiditis is the most common underlying cause."
+    },
+    {
+      "id": 42,
+      "q": "If blood is not separated promptly, glucose levels decrease at what rate per hour?",
+      "opts": [
+        "A. 1%",
+        "B. 5-7%",
+        "C. 15%",
+        "D. 25%"
+      ],
+      "ans": "B",
+      "exp": "If blood is not promptly separated, in-vitro glycolysis by blood cells reduces glucose by approximately 5–7% per hour."
+    },
+    {
+      "id": 43,
+      "q": "The Jaffe reaction is used to measure:",
+      "opts": [
+        "A. Urea",
+        "B. Creatinine",
+        "C. Uric Acid",
+        "D. Bilirubin"
+      ],
+      "ans": "B",
+      "exp": "The Jaffe reaction quantifies creatinine using an alkaline picric acid solution that produces a colour change."
+    },
+    {
+      "id": 44,
+      "q": "Which cardiac marker rises fastest and is most specific after Acute Myocardial Infarction (AMI)?",
+      "opts": [
+        "A. CK-MB",
+        "B. Myoglobin",
+        "C. hs-Troponin",
+        "D. LDH"
+      ],
+      "ans": "C",
+      "exp": "High-sensitivity Troponin (hs-Troponin) is the most cardiac-specific marker and rises rapidly after AMI, remaining elevated for days."
+    },
+    {
+      "id": 45,
+      "q": "What is a common cause of elevated Unconjugated Bilirubin?",
+      "opts": [
+        "A. Bile duct obstruction",
+        "B. Hemolytic disease",
+        "C. Pancreatic cancer",
+        "D. Cholecystitis"
+      ],
+      "ans": "B",
+      "exp": "Haemolytic disease causes massive RBC destruction, releasing unconjugated bilirubin that overwhelms hepatic conjugation capacity."
+    },
+    {
+      "id": 46,
+      "q": "An elevated Anion Gap is commonly seen in:",
+      "opts": [
+        "A. Ketoacidosis",
+        "B. Diarrhea",
+        "C. Hypoalbuminemia",
+        "D. Ammonium chloride ingestion"
+      ],
+      "ans": "A",
+      "exp": "Ketoacidosis accumulates unmeasured acids (e.g. acetoacetate), raising the anion gap."
+    },
+    {
+      "id": 47,
+      "q": "Which substance clearance is most commonly used to estimate renal function?",
+      "opts": [
+        "A. Glucose",
+        "B. Creatinine",
+        "C. Albumin",
+        "D. Sodium"
+      ],
+      "ans": "B",
+      "exp": "Endogenous creatinine clearance is the most widely used clinical method to estimate GFR."
+    },
+    {
+      "id": 48,
+      "q": "To avoid Kernicterus in neonatal jaundice, which indicator must be monitored?",
+      "opts": [
+        "A. Direct Bilirubin",
+        "B. Total Bilirubin and Free Bilirubin",
+        "C. Haptoglobin",
+        "D. ALP"
+      ],
+      "ans": "B",
+      "exp": "In neonatal jaundice, free unconjugated bilirubin can cross the blood-brain barrier causing kernicterus; total and free bilirubin must be monitored closely."
+    },
+    {
+      "id": 49,
+      "q": "Bence-Jones proteins are primarily found in the:",
+      "opts": [
+        "A. Plasma",
+        "B. Urine",
+        "C. CSF",
+        "D. Saliva"
+      ],
+      "ans": "B",
+      "exp": "Bence-Jones proteins are free immunoglobulin light chains; their small molecular weight allows glomerular filtration, so they appear primarily in urine."
+    },
+    {
+      "id": 50,
+      "q": "Serum osmolality primarily reflects the concentration of:",
+      "opts": [
+        "A. Sodium, Glucose, and Urea",
+        "B. Protein and Lipids",
+        "C. Calcium and Magnesium",
+        "D. All anions"
+      ],
+      "ans": "A",
+      "exp": "Serum osmolality is primarily determined by small solutes: sodium (and its paired anions), glucose, and urea. Calculated as: 2[Na] + Glucose + Urea."
+    },
+    {
+      "id": 51,
+      "q": "Typical CSF findings in Bacterial Meningitis include:",
+      "opts": [
+        "A. Decreased WBC, Increased Glucose",
+        "B. Increased WBC (Neutrophils), Decreased Glucose, Increased Protein",
+        "C. Increased WBC (Lymphocytes), Normal Glucose",
+        "D. Gross Hematuria"
+      ],
+      "ans": "B",
+      "exp": "Bacterial meningitis CSF shows markedly raised WBC (predominantly neutrophils), low glucose (consumed by bacteria), and high protein (inflammatory permeability)."
+    },
+    {
+      "id": 52,
+      "q": "What is the typical IMViC reaction sequence for E. coli?",
+      "opts": [
+        "A. ++-- (Indole+, MR+, VP-, Citrate-)",
+        "B. --++",
+        "C. +-+-",
+        "D. -+-+"
+      ],
+      "ans": "A",
+      "exp": "E. coli has a classic IMViC pattern of ++-- (Indole positive, MR positive, VP negative, Citrate negative)."
+    },
+    {
+      "id": 53,
+      "q": "In a Gram Stain, Gram-negative bacteria appear pink/red because:",
+      "opts": [
+        "A. They have a thick peptidoglycan layer",
+        "B. They lose crystal violet and take up the Safranin counterstain",
+        "C. They have an outer membrane",
+        "D. Crystal violet cannot penetrate"
+      ],
+      "ans": "B",
+      "exp": "Gram-negative bacteria have a thin peptidoglycan layer; during decolourisation with alcohol, crystal violet is lost and the safranin counterstain is taken up, resulting in a pink/red appearance."
+    },
+    {
+      "id": 54,
+      "q": "Which antibody is the only one capable of crossing the placenta?",
+      "opts": [
+        "A. IgM",
+        "B. IgA",
+        "C. IgG",
+        "D. IgE"
+      ],
+      "ans": "C",
+      "exp": "IgG is the only immunoglobulin actively transported across the placenta via the neonatal Fc receptor (FcRn)."
+    },
+    {
+      "id": 55,
+      "q": "Detection of elevated IgM in a newborn typically indicates:",
+      "opts": [
+        "A. Normal maternal antibody transfer",
+        "B. Intrauterine infection",
+        "C. Immature immune system",
+        "D. Hemolytic disease"
+      ],
+      "ans": "B",
+      "exp": "Maternal IgM is too large to cross the placenta; elevated IgM in a newborn must be self-produced in response to intrauterine infection."
+    },
+    {
+      "id": 56,
+      "q": "The Catalase test is used to differentiate between:",
+      "opts": [
+        "A. Staphylococcus (+) and Streptococcus (-)",
+        "B. Enterococcus and Streptococcus",
+        "C. Neisseria and Moraxella",
+        "D. E. coli and Klebsiella"
+      ],
+      "ans": "A",
+      "exp": "The catalase test is the fundamental test distinguishing Staphylococcus (positive — bubbles) from Streptococcus (negative)."
+    },
+    {
+      "id": 57,
+      "q": "Pink colonies on MacConkey Agar indicate that the bacteria:",
+      "opts": [
+        "A. Produce H2S",
+        "B. Are Lactose Fermenters",
+        "C. Produce gas",
+        "D. Break down Urea"
+      ],
+      "ans": "B",
+      "exp": "Pink colonies on MacConkey Agar indicate lactose fermentation, producing acid that changes the pH indicator colour."
+    },
+    {
+      "id": 58,
+      "q": "What is the hemolysis pattern of Streptococcus pneumoniae on Blood Agar?",
+      "opts": [
+        "A. β-hemolysis (Clear zone)",
+        "B. α-hemolysis (Green zone)",
+        "C. γ-hemolysis (No hemolysis)",
+        "D. No reaction"
+      ],
+      "ans": "B",
+      "exp": "Streptococcus pneumoniae produces alpha-haemolysis (incomplete haemolysis, green zone) on blood agar."
+    },
+    {
+      "id": 59,
+      "q": "The best medium for culturing Neisseria gonorrhoeae is:",
+      "opts": [
+        "A. Blood Agar",
+        "B. Chocolate Agar (or Thayer-Martin)",
+        "C. MacConkey Agar",
+        "D. CLED Agar"
+      ],
+      "ans": "B",
+      "exp": "Neisseria gonorrhoeae is fastidious and requires nutrient-rich chocolate agar or selective Thayer-Martin medium for growth."
+    },
+    {
+      "id": 60,
+      "q": "Which bacterium produces a 'metallic green sheen' on EMB Agar?",
+      "opts": [
+        "A. Klebsiella",
+        "B. Escherichia coli",
+        "C. Salmonella",
+        "D. Shigella"
+      ],
+      "ans": "B",
+      "exp": "E. coli ferments lactose intensely; the resulting acid causes dye precipitation on EMB Agar, producing the characteristic metallic green sheen."
+    },
+    {
+      "id": 61,
+      "q": "The key biochemical test to identify Staphylococcus aureus is:",
+      "opts": [
+        "A. Catalase",
+        "B. Coagulase",
+        "C. Oxidase",
+        "D. Indole"
+      ],
+      "ans": "B",
+      "exp": "The coagulase test is the gold-standard key test distinguishing S. aureus (coagulase-positive) from coagulase-negative staphylococci (CoNS)."
+    },
+    {
+      "id": 62,
+      "q": "In antibiotic sensitivity testing (AST), the E-test is used to measure:",
+      "opts": [
+        "A. Growth rate",
+        "B. Minimum Inhibitory Concentration (MIC)",
+        "C. Expiry date",
+        "D. Molecular weight"
+      ],
+      "ans": "B",
+      "exp": "The E-test strip carries a continuous antibiotic gradient, allowing direct reading of the Minimum Inhibitory Concentration (MIC)."
+    },
+    {
+      "id": 63,
+      "q": "What does the VDRL/RPR screening test for Syphilis detect?",
+      "opts": [
+        "A. Treponemal antigen",
+        "B. Non-specific Reagin (Cardiolipin antibody)",
+        "C. Specific IgG",
+        "D. Complement"
+      ],
+      "ans": "B",
+      "exp": "VDRL/RPR are non-treponemal tests that detect non-specific reagin (anti-cardiolipin antibody) produced in response to tissue damage from syphilis."
+    },
+    {
+      "id": 64,
+      "q": "Which immune cell plays a primary role in fighting parasitic infections?",
+      "opts": [
+        "A. Neutrophils",
+        "B. Eosinophils",
+        "C. Basophils",
+        "D. Monocytes"
+      ],
+      "ans": "B",
+      "exp": "Eosinophils contain major basic protein and play a primary defensive role against parasitic (helminth) infections and allergic reactions."
+    },
+    {
+      "id": 65,
+      "q": "The classical complement pathway is activated by:",
+      "opts": [
+        "A. Bacterial cell walls",
+        "B. Antigen-Antibody complexes (IgG or IgM)",
+        "C. Viral RNA",
+        "D. Lectins"
+      ],
+      "ans": "B",
+      "exp": "The classical complement pathway is activated by antigen-antibody complexes (IgG or IgM) binding C1."
+    },
+    {
+      "id": 66,
+      "q": "A 'Speckled pattern' in an ANA test is commonly associated with:",
+      "opts": [
+        "A. SLE",
+        "B. MCTD or Sjogren's Syndrome",
+        "C. Rheumatoid Arthritis",
+        "D. Scleroderma"
+      ],
+      "ans": "B",
+      "exp": "A speckled ANA pattern is associated with antibodies against extractable nuclear antigens (ENA), commonly seen in MCTD or Sjögren's Syndrome."
+    },
+    {
+      "id": 67,
+      "q": "An elevated Anti-Streptolysin O (ASO) titer indicates:",
+      "opts": [
+        "A. Current skin infection",
+        "B. Recent Group A Streptococcus infection",
+        "C. Pneumonia",
+        "D. Tuberculosis"
+      ],
+      "ans": "B",
+      "exp": "A raised ASO titre indicates recent Group A Streptococcal infection."
+    },
+    {
+      "id": 68,
+      "q": "The standard stain for screening Mycobacterium tuberculosis (MTB) is:",
+      "opts": [
+        "A. Gram stain",
+        "B. Ziehl-Neelsen (Acid-fast) stain",
+        "C. Giemsa stain",
+        "D. Wright stain"
+      ],
+      "ans": "B",
+      "exp": "MTB has a wax-rich cell wall (mycolic acids) that resists Gram staining; Ziehl-Neelsen (acid-fast) stain is required."
+    },
+    {
+      "id": 69,
+      "q": "Which virus is strongly associated with cervical cancer?",
+      "opts": [
+        "A. HIV",
+        "B. HPV",
+        "C. HBV",
+        "D. CMV"
+      ],
+      "ans": "B",
+      "exp": "HPV, particularly high-risk strains (HPV 16 and 18), is strongly causally associated with cervical cancer."
+    },
+    {
+      "id": 70,
+      "q": "The primary advantage of ELISA technology in antigen detection is:",
+      "opts": [
+        "A. Speed but low precision",
+        "B. High sensitivity and quantifiability",
+        "C. Only qualitative results",
+        "D. No special equipment needed"
+      ],
+      "ans": "B",
+      "exp": "ELISA's key advantage is its high sensitivity through enzymatic signal amplification and its ability to provide accurate quantitative results."
+    },
+    {
+      "id": 71,
+      "q": "For crossmatching infants < 3 months old, which sample is preferred for antibody screening?",
+      "opts": [
+        "A. Infant serum only",
+        "B. Maternal serum or plasma",
+        "C. Paternal serum",
+        "D. Cord blood"
+      ],
+      "ans": "B",
+      "exp": "Infants <3 months rarely produce clinically significant antibodies; any antibodies present are likely maternal IgG transferred transplacentally, so maternal serum is preferred for antibody screening."
+    },
+    {
+      "id": 72,
+      "q": "A patient with Bombay Phenotype (hh) is likely to be misidentified as which blood group in routine typing?",
+      "opts": [
+        "A. Group A",
+        "B. Group B",
+        "C. Group O",
+        "D. Group AB"
+      ],
+      "ans": "C",
+      "exp": "Bombay phenotype (hh) lacks H substance; forward typing shows no reactivity with Anti-A/Anti-B, making it appear identical to Group O."
+    },
+    {
+      "id": 73,
+      "q": "In the MNS blood group system, which antibody is most commonly associated with Hemolytic Disease of the Newborn (HDN)?",
+      "opts": [
+        "A. Anti-M",
+        "B. Anti-N",
+        "C. Anti-s",
+        "D. Anti-L"
+      ],
+      "ans": "C",
+      "exp": "Anti-S and Anti-s in the MNS system have greater clinical significance than Anti-M/N and are more commonly associated with HDN."
+    },
+    {
+      "id": 74,
+      "q": "What are the requirements for blood used for infants < 3 months old?",
+      "opts": [
+        "A. CMV negative or leucodepleted",
+        "B. Irradiated to prevent GVHD",
+        "C. Fresh (usually <= 5-7 days old)",
+        "D. All of the above"
+      ],
+      "ans": "D",
+      "exp": "Neonatal transfusions require: CMV-negative or leucodepleted blood (prevent viral transmission), irradiation (prevent GvHD), and fresh blood (≤5–7 days, to avoid hyperkalaemia)."
+    },
+    {
+      "id": 75,
+      "q": "A pregnant woman has a positive antibody screen (Anti-D, titer 1:4) after receiving RhIG. This is likely:",
+      "opts": [
+        "A. Passive Anti-D from RhIG",
+        "B. Autoimmune reaction",
+        "C. True alloimmunization",
+        "D. Testing error"
+      ],
+      "ans": "A",
+      "exp": "After RhIG injection, low-titre (e.g. 1:4) Anti-D detected in maternal serum is passive antibody that persists for several weeks."
+    },
+    {
+      "id": 76,
+      "q": "The most common cause of Acute Hemolytic Transfusion Reactions (AHTR) is:",
+      "opts": [
+        "A. Missed antibody on screen",
+        "B. Patient identification or clerical errors",
+        "C. Improper storage temperature",
+        "D. Allergic reaction to plasma proteins"
+      ],
+      "ans": "B",
+      "exp": "The most common root cause of acute haemolytic transfusion reactions is not a missed antibody on screening but rather administrative or patient identification errors."
+    },
+    {
+      "id": 77,
+      "q": "A patient develops jaundice, falling Hb, and a positive DAT 7 days after transfusion. This is likely:",
+      "opts": [
+        "A. Acute hemolytic reaction",
+        "B. Delayed Hemolytic Transfusion Reaction (DHTR)",
+        "C. Sepsis",
+        "D. TRALI"
+      ],
+      "ans": "B",
+      "exp": "Jaundice, falling Hb, and a positive DAT appearing days post-transfusion is the classic presentation of a Delayed Haemolytic Transfusion Reaction (DHTR), caused by an anamnestic immune response."
+    },
+    {
+      "id": 78,
+      "q": "Transfusion Related Acute Lung Injury (TRALI) is characterized by non-cardiogenic pulmonary edema within how many hours of transfusion?",
+      "opts": [
+        "A. 1 hour",
+        "B. Within 6 hours",
+        "C. 24 hours",
+        "D. 48 hours"
+      ],
+      "ans": "B",
+      "exp": "TRALI is defined as non-cardiogenic pulmonary oedema occurring within 6 hours of transfusion, typically associated with donor HLA antibodies."
+    },
+    {
+      "id": 79,
+      "q": "How is Transfusion Associated Circulatory Overload (TACO) differentiated from TRALI?",
+      "opts": [
+        "A. TACO presents with hypertension and responds to diuretics",
+        "B. TRALI responds to diuretics",
+        "C. TACO is antibody-mediated",
+        "D. They cannot be differentiated"
+      ],
+      "ans": "A",
+      "exp": "TACO is due to volume overload (hydrostatic pressure); it presents with hypertension and responds to diuretics. TRALI is inflammatory (increased permeability) and does not respond to diuretics."
+    },
+    {
+      "id": 80,
+      "q": "What is the expiry of Deglycerolized RBCs stored at 4°C after wash in an open system?",
+      "opts": [
+        "A. 24 hours",
+        "B. 7 days",
+        "C. 21 days",
+        "D. 35 days"
+      ],
+      "ans": "A",
+      "exp": "After thawing and washing in an open system, deglycerolised RBCs must be used within 24 hours due to the risk of bacterial contamination from breaking the sterile seal."
+    },
+    {
+      "id": 81,
+      "q": "What are the storage conditions for Platelet Concentrates?",
+      "opts": [
+        "A. 2-6°C, stationary",
+        "B. 20-24°C, constant agitation",
+        "C. -18°C, frozen",
+        "D. 37°C, protected from light"
+      ],
+      "ans": "B",
+      "exp": "Platelet concentrates must be stored at 20–24°C with constant agitation to prevent spontaneous aggregation and maintain appropriate pH."
+    },
+    {
+      "id": 82,
+      "q": "Pre-storage Leukoreduction does NOT aim to:",
+      "opts": [
+        "A. Reduce Febrile Non-Hemolytic reactions (FNHTR)",
+        "B. Prevent CMV transmission",
+        "C. Prevent HLA alloimmunization",
+        "D. Increase RBC lifespan"
+      ],
+      "ans": "D",
+      "exp": "Pre-storage leukoreduction aims to reduce FNHTR, prevent CMV transmission, and prevent HLA alloimmunisation; it does not directly extend the physical lifespan of RBCs."
+    },
+    {
+      "id": 83,
+      "q": "In an emergency with no time for crossmatch, what blood should be issued?",
+      "opts": [
+        "A. Any blood",
+        "B. Patient's typed group",
+        "C. Group O Rh Negative (females/children) or O Rh Positive (adult males)",
+        "D. Group AB"
+      ],
+      "ans": "C",
+      "exp": "In an emergency without time for crossmatch: O Rh Negative blood is given to females of childbearing potential and children (to avoid anti-D immunisation); O Rh Positive is acceptable for adult males."
+    },
+    {
+      "id": 84,
+      "q": "Once thawed, FFP should be stored at 2-6°C and used within how many hours?",
+      "opts": [
+        "A. 4 hours",
+        "B. 24 hours",
+        "C. 72 hours",
+        "D. 5 days"
+      ],
+      "ans": "B",
+      "exp": "Once thawed, FFP must be used within 24 hours at 2–6°C because labile clotting factors (V and VIII) degrade rapidly."
+    },
+    {
+      "id": 85,
+      "q": "What are the primary components of Cryoprecipitate?",
+      "opts": [
+        "A. Factor VIII, Fibrinogen, vWF, Factor XIII",
+        "B. Factor VIII only",
+        "C. Factors II, VII, IX, X",
+        "D. Albumin and Globulin"
+      ],
+      "ans": "A",
+      "exp": "Cryoprecipitate is rich in fibrinogen, Factor VIII, vWF, and Factor XIII, making it essential in major haemorrhage management."
+    },
+    {
+      "id": 86,
+      "q": "What is the function of a Mordant in histological staining?",
+      "opts": [
+        "A. To bleach the tissue",
+        "B. To act as a nuclear counterstain",
+        "C. To form a dye-tissue complex to fix the color",
+        "D. To remove excess stain"
+      ],
+      "ans": "C",
+      "exp": "A mordant acts as a bridge, forming a stable dye-tissue chelate complex that fixes the colour to the tissue."
+    },
+    {
+      "id": 87,
+      "q": "Which of the following is NOT a mordant?",
+      "opts": [
+        "A. Potassium alum",
+        "B. Ferric chloride",
+        "C. Iodine",
+        "D. Xylene"
+      ],
+      "ans": "D",
+      "exp": "Xylene is not a mordant; it is used in histological processing as a clearing agent and dewaxing solvent."
+    },
+    {
+      "id": 88,
+      "q": "Why is EDTA the preferred anticoagulant for genomic studies?",
+      "opts": [
+        "A. It increases DNA yield",
+        "B. It chelates metal ions, inhibiting metal-dependent DNases",
+        "C. It is cheaper than Heparin",
+        "D. It stabilizes RBCs"
+      ],
+      "ans": "B",
+      "exp": "EDTA chelates metal ions (e.g. Mg²⁺), inhibiting metal-dependent DNases and thus protecting DNA from enzymatic degradation — making it ideal for genomic studies."
+    },
+    {
+      "id": 89,
+      "q": "Why is Heparin NOT recommended for PCR testing?",
+      "opts": [
+        "A. It destroys DNA structure",
+        "B. It inhibits the PCR amplification reaction",
+        "C. It causes DNA clumping",
+        "D. It does not prevent clotting"
+      ],
+      "ans": "B",
+      "exp": "Heparin binds to and inhibits DNA polymerase, strongly suppressing the PCR amplification reaction."
+    },
+    {
+      "id": 90,
+      "q": "In molecular biology, EDTA chelating calcium ions prevents clotting and also prevents:",
+      "opts": [
+        "A. Sample dilution",
+        "B. Apoptosis",
+        "C. Enzymatic DNA degradation",
+        "D. Protein denaturation"
+      ],
+      "ans": "C",
+      "exp": "By chelating divalent calcium and magnesium ions, EDTA inactivates many metal-dependent nucleases, preventing enzymatic DNA degradation."
+    },
+    {
+      "id": 91,
+      "q": "What is the principle of Formalin fixation?",
+      "opts": [
+        "A. Dehydration",
+        "B. Protein cross-linking",
+        "C. Lipid dissolution",
+        "D. Crystallization"
+      ],
+      "ans": "B",
+      "exp": "Formalin fixation works by forming methylene bridges between proteins (cross-linking), preserving tissue architecture."
+    },
+    {
+      "id": 92,
+      "q": "What is the standard thickness for paraffin sections?",
+      "opts": [
+        "A. 0.5-1 μm",
+        "B. 3-5 μm",
+        "C. 10-15 μm",
+        "D. 20-30 μm"
+      ],
+      "ans": "B",
+      "exp": "The standard thickness for paraffin sections for routine light microscopy is 3–5 μm, allowing visualisation of single-cell layers."
+    },
+    {
+      "id": 93,
+      "q": "The primary difference between Quality Assurance (QA) and Quality Control (QC) is:",
+      "opts": [
+        "A. QA is retrospective; QC is prospective",
+        "B. QA focuses on process and prevention; QC focuses on output and error detection",
+        "C. QA is for chemistry only; QC is for all",
+        "D. There is no difference"
+      ],
+      "ans": "B",
+      "exp": "QA focuses on the overall process and error prevention (system-level); QC focuses on monitoring test outputs and detecting errors (result-level)."
+    },
+    {
+      "id": 94,
+      "q": "Which is correct regarding needle handling?",
+      "opts": [
+        "A. Recap immediately after use",
+        "B. Dispose in yellow sharps container; NEVER recap",
+        "C. Dispose in general waste",
+        "D. Disinfect with alcohol before disposal"
+      ],
+      "ans": "B",
+      "exp": "Needles must never be recapped after use — recapping is the leading cause of needlestick injuries. Dispose immediately in a yellow sharps container."
+    },
+    {
+      "id": 95,
+      "q": "What does a 1:3s Westgard violation mean?",
+      "opts": [
+        "A. A single control value exceeds the mean by 3 SD; reject the run",
+        "B. Two consecutive values exceed 2 SD",
+        "C. Systematic error",
+        "D. Acceptable variation"
+      ],
+      "ans": "A",
+      "exp": "A 1:3s Westgard violation means a single QC value exceeds the mean ±3 SD, indicating major random or systematic error; the run must be rejected."
+    },
+    {
+      "id": 96,
+      "q": "Australian standards (NATA/RCPA) require that Critical Results be:",
+      "opts": [
+        "A. Mailed directly",
+        "B. Immediately phoned to the clinician and documented",
+        "C. Held until re-run",
+        "D. Logged in the system only"
+      ],
+      "ans": "B",
+      "exp": "Australian NATA/RCPA guidelines require critical results to be phoned immediately to the clinician and fully documented in the LIS."
+    },
+    {
+      "id": 97,
+      "q": "If a needle-stick injury occurs, what is the first step?",
+      "opts": [
+        "A. Fill an incident report",
+        "B. Wash the wound under running water and encourage bleeding",
+        "C. Ask the patient for their history",
+        "D. Call a meeting with the manager"
+      ],
+      "ans": "B",
+      "exp": "The immediate first step after a needlestick is to wash the wound under running water and gently encourage bleeding to flush out contaminants."
+    },
+    {
+      "id": 98,
+      "q": "What is the chemical safety documentation in a lab called?",
+      "opts": [
+        "A. SOP",
+        "B. SDS (Safety Data Sheet)",
+        "C. ISO",
+        "D. NATA"
+      ],
+      "ans": "B",
+      "exp": "The Safety Data Sheet (SDS) is the mandatory documentation for chemical safety in laboratories, detailing hazards, properties, and emergency procedures."
+    },
+    {
+      "id": 99,
+      "q": "Standard Deviation (SD) measures the:",
+      "opts": [
+        "A. Accuracy",
+        "B. Precision (Reproducibility)",
+        "C. Sensitivity",
+        "D. Specificity"
+      ],
+      "ans": "B",
+      "exp": "Standard deviation (SD) measures the dispersion of data around the mean, used in laboratory statistics to assess measurement precision (reproducibility)."
+    },
+    {
+      "id": 100,
+      "q": "What is the most common pre-analytical error in the laboratory?",
+      "opts": [
+        "A. Expired reagents",
+        "B. Calibration error",
+        "C. Patient/Specimen mislabeling",
+        "D. Transcription error"
+      ],
+      "ans": "C",
+      "exp": "Despite advances in automation, patient/specimen mislabelling remains the most common pre-analytical error in the clinical laboratory cycle."
+    }
+  ]
+}
